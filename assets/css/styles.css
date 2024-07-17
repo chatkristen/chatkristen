@@ -212,10 +212,12 @@ img {
   0%{box-shadow:0 0 0 0 var(--first-color);opacity: 0.8;-webkit-transition:box-shadow .3s ease-in-out}
 100%{box-shadow:0 0 0 30px transparent;-webkit-transform:translate3d(0,0,0);-webkit-transition:box-shadow .4s ease-in-out}
 }
+
 @-moz-keyframes preload-shadow {
 0%{box-shadow:0 0 0 0 var(--first-color);opacity: 0.6;-moz-transition:box-shadow .3s ease-in-out}
 100%{box-shadow:0 0 0 30px transparent;-moz-transform:translate3d(0,0,0);-moz-transition:box-shadow .4s ease-in-out}
 }
+
 @keyframes preload-shadow {
   0%{box-shadow:0 0 0 0 var(--first-color);opacity: 0.4;-webkit-transition:box-shadow .3s ease-in-out;-moz-transition:box-shadow .3s ease-in-out;transition:box-shadow .3s ease-in-out}100%{box-shadow:0 0 0 30px transparent;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0);-webkit-transition:box-shadow .4s ease-in-out;-moz-transition:box-shadow .4s ease-in-out;transition:box-shadow .4s ease-in-out}
 }
