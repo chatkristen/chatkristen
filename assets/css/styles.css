@@ -73,11 +73,6 @@ img {
   align-items: flex-end;
 }
 
-.card__profile img, 
-.card__mask img {
-  width: 95px;
-}
-
 .card__profile {
   border: 4px solid var(--container-color);
   z-index: 5;
