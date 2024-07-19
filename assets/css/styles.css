@@ -9,6 +9,7 @@
   --second-color: #fabc66;
   --title-color: hsl(230, 24%, 12%);
   --text-color: hsl(230, 4%, 60%);
+  --lime-color: #00FF00;
   --gray-color: hsl(230, 24%, 88%);
   --border-color: hsl(230, 4%, 92%);
   --body-color: hsl(230, 100%, 98%);
@@ -149,7 +150,7 @@ img {
 .card__status {
   width: 12px;
   height: 12px;
-  background-color: var(--second-color);
+  background-color: var(--lime-color);
   position: absolute;
   top: .5rem;
   right: .75rem;
