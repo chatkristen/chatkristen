@@ -24,4 +24,8 @@ Saya ChatKristen. Media Motivasi Kristen.
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chatkristen&label=Profile%20views&color=0e75b6&style=flat" alt="chatkristen" /> </p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/chatkristen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chatkristen" /></a></p>
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=chatkristen&label=Profile%20views&color=0e75b6&style=flat" alt="chatkristen" /></p>
