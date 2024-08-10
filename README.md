@@ -21,4 +21,4 @@ I'm ChatKristen. Front-end developer and UI designer.
 </p>
 
 
-<p align="center"> <img src="" alt="chatkristen" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chatkristen&label=Profile%20views&color=0e75b6&style=flat" alt="chatkristen" /> </p>
