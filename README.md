@@ -1,8 +1,8 @@
 ![image]()
 
-## Hi there 🍁
+## Shalom Semua 🙏
 
-I'm ChatKristen. Front-end developer and UI designer.
+Saya ChatKristen. Media Motivasi Kristen.
 
 ### 🫱🏻‍🫲🏻 Connect with me:
 <p>
