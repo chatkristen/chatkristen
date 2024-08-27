@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://bento.me/kenangain">
+  <a href="https://chat-kristen.blogspot.com/">
     <img width="100%" src="https://cardivo.vercel.app/api?name=Chat%20Kristen&description=Bagian%20kita%20bukan%20hanya%20memegang%20erat%20iman,%20kasih,%20dan%20pengharapan%20kita,%20tetapi%20juga%20mendorong%20saudara%20seiman%20kita%20untuk%20melakukan%20hal%20yang%20sama.&image=https://cdn.jsdelivr.net/gh/chatkristen/chatkristen@main/assets/img/profile.png&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=chatkristen&instagram=chatkristen&&github=chatkristen&twitter=chatkristen" alt="Chat Kristen" />
   </a>
 </div>
@@ -72,7 +72,7 @@
 </p>
 
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 Tentang Kami</h2>
 
 Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan konten inspiratif dan relevan untuk perjalanan iman sehari-hari. Kami mendukung komunitas yang inklusif dan terbuka bagi siapa saja yang ingin bertumbuh dalam iman Kristen, sambil menawarkan ruang untuk berinteraksi, berbagi pengalaman, dan mendalami topik kontemporer sesuai prinsip Alkitab.
 
@@ -207,7 +207,7 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
 
 <h3>
   <div align="center">
-    ⭐️ From [chatkristen](https://github.com/chatkristen) | Mari Hidup dan Bertumbuh dalam Kasih Kristus. 🙏
+    ⭐️ From <a href="https://github.com/chatkristen" target="_blank">Chat Kristen</a> | Mari Hidup dan Bertumbuh dalam Kasih Kristus 🙏
   </div>
 </h3>
 
