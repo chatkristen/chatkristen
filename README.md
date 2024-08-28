@@ -192,7 +192,7 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/chatkristen/chatkristen/main/assets/img/bmc_whe.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
+        <img src="https://raw.githubusercontent.com/chatkristen/chatkristen/main/assets/img/bmc.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
   </table>
 
