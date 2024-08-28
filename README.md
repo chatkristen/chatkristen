@@ -11,7 +11,7 @@
 <h1 align="center">Shalom 🙏</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F89000&center=true&Center=true&width=435&lines=Iman+memberi+kekuatan;Pengharapan+memberi+alasan;Kasih+menyatukan+semuanya." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F89000&center=true&Center=true&width=435&lines=Tuhan+mendukung+langkahmu;Percaya%2C+Tuhan+ada;Harapan+ada+dalam+Tuhan;Iman+mengatasi+segalanya;Tuhan+memberi+kekuatan" alt="Typing SVG" />
 </p>
 
 <p align="center">
