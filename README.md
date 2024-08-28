@@ -6,6 +6,8 @@
   </a>
 </div>
 
+<br>
+
 <h1 align="center">Shalom 🙏</h1>
 
 <p align="center">
@@ -71,7 +73,6 @@
 
 <br>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chatkristen&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
@@ -80,6 +81,8 @@
 <h2 align="center">🪪 Tentang Kami</h2>
 
 Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan konten inspiratif dan relevan untuk perjalanan iman sehari-hari. Kami mendukung komunitas yang inklusif dan terbuka bagi siapa saja yang ingin bertumbuh dalam iman Kristen, sambil menawarkan ruang untuk berinteraksi, berbagi pengalaman, dan mendalami topik kontemporer sesuai prinsip Alkitab.
+
+<br>
 
 <h2 align="center">📈 Git Stats</h2>
 
