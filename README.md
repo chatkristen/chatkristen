@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">Shalom 🙏, Perkenalkan Saya Chat Kristen</h1>
+<h1 align="center">Shalom 🙏</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F89000&center=true&Center=true&width=435&lines=Iman+memberi+kekuatan;Pengharapan+memberi+alasan;Kasih+menyatukan+semuanya." alt="Typing SVG" />
