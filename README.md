@@ -88,9 +88,9 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=chatkristen&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=chatkristen&theme=aura_dark&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chatkristen&custom_title=Chat%20Kristen%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chatkristen&custom_title=Chat%20Kristen%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=262334&color=FF7372&line=FF7372&point=FF7372&area_color=262334&title_color=FF7372&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
@@ -102,16 +102,16 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chatkristen&theme=aura_dark&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatkristen&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatkristen&theme=aura_dark&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chatkristen&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Chat Kristen GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=chatkristen&hide_border=true&border_radius=15&show_icons=true&theme=aura_dark" alt="Chat Kristen GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatkristen&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatkristen&theme=aura_dark&hide_border=true">
 
 <!--### Top Repositories
 <div align="center">
@@ -141,7 +141,7 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=chatkristen&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=chatkristen&no-frame=true&theme=aura_dark" alt="GitHub Profile Trophy">
 </details>
 
 </div>
@@ -177,7 +177,7 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
 <div align="center">
 <h2 align="center">📊 YouTube Stats</h2>
   
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCisuA7DaWowzEggZ2Y5O8_w&layout=extruded&title_color=f89000&icon_color=f89000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@chatkristen)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCisuA7DaWowzEggZ2Y5O8_w&layout=extruded&title_color=FF7372&icon_color=FF7372&text_color=FF7372&bg_color=262334&hide_border=true)](https://www.youtube.com/@chatkristen)
 
 </div>
 
