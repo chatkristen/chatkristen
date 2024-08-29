@@ -28,44 +28,44 @@
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@chatkristen" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40chatkristen&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siyoutube&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/chatkristen/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fchatkristen&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siinstagram&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
     <td align="center">
       <a href="https://facebook.com/chatkristen" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fchatkristen&subtitle=chatkristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sifacebook&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
     <td align="center">
       <a href="https://www.tiktok.com/@chatkristen" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.tiktok.com%2F%40chatkristen&subtitle=%40chatkristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitiktok&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.pinterest.com/chatkristen&rounded=24" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.pinterest.com%2Fchatkristen&subtitle=ChatKristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipinterest&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
     <td align="center">
       <a href="https://twitter.com/chatkristen" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Fchatkristen&subtitle=%40chatkristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=six&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
     <td align="center">
       <a href="https://www.buymeacoffee.com/chatkristen" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fchatkristen&subtitle=%40chatkristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sibuymeacoffee&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/chatkristen" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fchatkristen&subtitle=chatkristen&size=square&rounded=24" alt="Chat Kristen">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigithub&subtitle=@chatkristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
   </tr>
