@@ -141,7 +141,7 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
 
 <br>
 
-<h2 align="center">⛓️‍💥 Socials Stats</h2>
+<h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
     <a href="https://www.instagram.com/chatkristen/" target="_blank">
