@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:FF7372,100%:a82da8&text=Shalom%20🙏&fontColor=ffffff&textBg=false&animation=fadeIn" width="100%">
 
 <div align="center">
   <a href="https://chat-kristen.blogspot.com/">
@@ -8,14 +8,12 @@
 
 <br>
 
-<h1 align="center">Shalom 🙏</h1>
+<h2 align="center">🪪 Tentang Kami</h2>
+
+Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan konten inspiratif dan relevan untuk perjalanan iman sehari-hari. Kami mendukung komunitas yang inklusif dan terbuka bagi siapa saja yang ingin bertumbuh dalam iman Kristen, sambil menawarkan ruang untuk berinteraksi, berbagi pengalaman, dan mendalami topik kontemporer sesuai prinsip Alkitab.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F89000&center=true&Center=true&width=435&lines=Tuhan+mendukung+langkahmu;Percaya%2C+Tuhan+ada;Harapan+ada+dalam+Tuhan;Iman+mengatasi+segalanya;Tuhan+memberi+kekuatan" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Komunitas yang Hidup dan Bertumbuh dalam Kasih Kristus.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7372&center=true&Center=true&width=435&lines=Komunitas%20yang%20Hidup.;Bertumbuh%20dalam%20Kasih%20Kristus." alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -76,11 +74,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chatkristen&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
-
-
-<h2 align="center">🪪 Tentang Kami</h2>
-
-Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan konten inspiratif dan relevan untuk perjalanan iman sehari-hari. Kami mendukung komunitas yang inklusif dan terbuka bagi siapa saja yang ingin bertumbuh dalam iman Kristen, sambil menawarkan ruang untuk berinteraksi, berbagi pengalaman, dan mendalami topik kontemporer sesuai prinsip Alkitab.
 
 <br>
 
