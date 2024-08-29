@@ -12,9 +12,9 @@
 
 Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan konten inspiratif dan relevan untuk perjalanan iman sehari-hari. Kami mendukung komunitas yang inklusif dan terbuka bagi siapa saja yang ingin bertumbuh dalam iman Kristen, sambil menawarkan ruang untuk berinteraksi, berbagi pengalaman, dan mendalami topik kontemporer sesuai prinsip Alkitab.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7372&center=true&Center=true&width=435&lines=Komunitas%20yang%20Hidup.;Bertumbuh%20dalam%20Kasih%20Kristus." alt="Typing SVG" />
-</p>
+<!--<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7372&center=true&Center=true&width=435&lines=Jangan%20lupa%20follow%20" alt="Typing SVG" />
+</p>-->
 
 <div align="center">
 <table>
