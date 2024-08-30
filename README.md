@@ -172,7 +172,7 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
 <div align="center">
 <h2 align="center">📊 YouTube Stats</h2>
   
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCisuA7DaWowzEggZ2Y5O8_w&layout=extruded&title_color=FF7372&icon_color=FF7372&text_color=FF7372&bg_color=262334&hide_border=true)](https://www.youtube.com/@chatkristen)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCisuA7DaWowzEggZ2Y5O8_w&layout=extruded&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=262334&hide_border=true)](https://www.youtube.com/@chatkristen)
 
 </div>
 
