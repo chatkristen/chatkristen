@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:FF7372,100%:a82da8&text=Shalom%20🙏&fontColor=ffffff&textBg=false&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:FF7372,100%:a82da8&text=Shalom%20🙏&fontColor=ffffff&textBg=false&animation=blinking" width="100%">
 
 <div align="center">
   <a href="https://chat-kristen.blogspot.com/">
@@ -11,6 +11,8 @@
 <h2 align="center">🪪 Tentang Kami</h2>
 
 Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan konten inspiratif dan relevan untuk perjalanan iman sehari-hari. Kami mendukung komunitas yang inklusif dan terbuka bagi siapa saja yang ingin bertumbuh dalam iman Kristen, sambil menawarkan ruang untuk berinteraksi, berbagi pengalaman, dan mendalami topik kontemporer sesuai prinsip Alkitab.
+
+<br>
 
 <!--<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7372&center=true&Center=true&width=435&lines=Jangan%20lupa%20follow%20" alt="Typing SVG" />
