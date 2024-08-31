@@ -184,13 +184,21 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
     <tr>
       <th align="center">
         <a href="https://www.buymeacoffee.com/chatkristen" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+          <img src="https://raw.githubusercontent.com/chatkristen/chatkristen/main/assets/img/button_bmc.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+        </a>
+      </th>
+      <th align="center">
+        <a href="https://saweria.co/chatkristen" target="_blank">
+          <img src="https://raw.githubusercontent.com/chatkristen/chatkristen/main/assets/img/button_sw.png" alt="Saweria" style="height: 60px; width: 217px;">
         </a>
       </th>
     </tr>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/chatkristen/chatkristen/main/assets/img/bmc.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/chatkristen/chatkristen/main/assets/img/sw.png" alt="Saweria" width="150" height="150">
       </td>
   </table>
 
