@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://chat-kristen.blogspot.com/">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Chat%20Kristen&description=Bagian%20kita%20bukan%20hanya%20memegang%20erat%20iman,%20kasih,%20dan%20pengharapan%20kita,%20tetapi%20juga%20mendorong%20saudara%20seiman%20kita%20untuk%20melakukan%20hal%20yang%20sama.&image=https://cdn.jsdelivr.net/gh/chatkristen/chatkristen@main/assets/img/profile.png&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=chatkristen&instagram=chatkristen&&github=chatkristen&twitter=chatkristen" alt="Chat Kristen" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Chat%20Kristen&description=Bagian%20kita%20bukan%20hanya%20memegang%20erat%20iman,%20kasih,%20dan%20pengharapan%20kita,%20tetapi%20juga%20mendorong%20saudara%20seiman%20kita%20untuk%20melakukan%20hal%20yang%20sama.&image=https://cdn.jsdelivr.net/gh/chatkristen/chatkristen@main/assets/img/Logo.png&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=chatkristen&instagram=chatkristen&&github=chatkristen&twitter=chatkristen" alt="Chat Kristen" />
   </a>
 </div>
 
