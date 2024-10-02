@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:FF7372,100%:a82da8&text=Shalom%20🙏&fontColor=ffffff&textBg=false&animation=blinking" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:ccdbf0,100%:024cb7&text=Shalom%20🙏&fontColor=ffffff&textBg=false&animation=blinking" width="100%">
 
 <div align="center">
   <a href="https://chat-kristen.blogspot.com/">
@@ -223,4 +223,4 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
   </div>
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%:ccdbf0,100%:024cb7&height=110&section=footer" width="100%">
