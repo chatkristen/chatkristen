@@ -22,7 +22,7 @@ Chat Kristen adalah platform independen dan non-denominasi yang menghadirkan kon
 <table>
   <tr>
     <td align="center">
-      <a href="https://chat-kristen.blogspot.com" target="_blank">
+      <a href="https://chatkristen.com" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siblogger&subtitle=Chat+Kristen&size=square&rounded=24" alt="Chat Kristen">
       </a>
     </td>
